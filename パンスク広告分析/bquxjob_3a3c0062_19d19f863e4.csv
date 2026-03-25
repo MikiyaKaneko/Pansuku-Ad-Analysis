@@ -1,0 +1,4 @@
+campaign,plan,total,active,suspended_cnt,churned,churn_rate_pct
+ASC,oneMonth,15,11,0,4,26.7
+ASC,twoMonths,2,2,0,0,0.0
+ASC,twoWeeks,1,1,0,0,0.0

@@ -1,0 +1,7 @@
+campaign,plan,total_users,active_users,deleted_users,active_rate_pct,avg_months,avg_ltv_revenue,avg_ltv_profit
+ASC,oneMonth,145,110,35,75.9,5.7,22812.0,6495.0
+ASC,twoMonths,19,18,1,94.7,6.9,27510.0,7832.0
+ASC,twoWeeks,3,3,0,100.0,2.7,10640.0,3029.0
+INT,oneMonth,17,14,3,82.4,9.1,36145.0,10291.0
+INT,twoMonths,2,2,0,100.0,10.5,41895.0,11928.0
+INT,twoWeeks,1,1,0,100.0,9.0,35910.0,10224.0
